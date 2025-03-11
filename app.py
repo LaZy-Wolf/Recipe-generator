@@ -3,7 +3,7 @@ from api.spoonacular import SpoonacularAPI
 from utils.helpers import format_recipe
 
 
-API_KEY = "7dbb89793e9d4ae0a025b7bdcc30fde1"  # Your Spoonacular API key
+API_KEY = "Enter API Key"  # Your Spoonacular API key
 spoonacular = SpoonacularAPI(API_KEY)
 
 
