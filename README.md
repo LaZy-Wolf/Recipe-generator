@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Yo !
 
@@ -30,3 +31,10 @@ Replace the API_KEY in app.py with your Spoonacular API key.
 
 Run the Streamlit app:
 streamlit run app.py
+
+This is the final version of README.md with merged content.
+
+=======
+# Recipe-generator
+>>>>>>> bbebca1db82377478def255838303811a068f8df
+This is the final version of README.md with merged content.
